@@ -1,0 +1,29 @@
+.image-holder-icons {
+    border-radius: 50%;
+    background: #313338;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 120px;
+    width: 120px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+
+.the-specialization {
+    color: white;
+    margin-top: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 24px;
+}
+.common-text-about {
+    color: white;
+    margin-top: 15px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 13px;
+    margin-bottom: 25px;
+
+}

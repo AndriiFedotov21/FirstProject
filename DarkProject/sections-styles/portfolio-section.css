@@ -1,0 +1,108 @@
+.portfolio-section {
+
+}
+.portfolio-header-buttons {
+    background-color: #313338;
+    width: 100px;
+    height: 30px;
+    color: white;
+    font-weight: 300;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    line-height: 2;
+    margin-left: 5px;
+    transition: 0.4s;
+
+}
+.portfolio-buttons-holder {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    width: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.portfolio-header-buttons:hover {
+    background-color: #1bbc9d;
+    transition: 0.4s;
+    cursor: pointer;
+}
+.box-first-line {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    flex-wrap: wrap;
+}
+.box-second-line {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    flex-wrap: wrap;
+}
+.box-image-line {
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.icons-arrow-down {
+    margin-top: 5px;
+    color: white;
+    font-size: 35px;
+    transition: 0.4s;
+}
+.under-boxes-header {
+    margin-top: 20px;
+    color: white;
+    font-weight: 300;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    transition: 0.4s;
+
+}
+.unite-text-and-arrow:hover .under-boxes-header {
+    transition: 0.4s;
+    color: #1bbc9d;
+    cursor: pointer;
+
+
+}
+.unite-text-and-arrow:hover .icons-arrow-down {
+    transition: 0.4s;
+    color: #1bbc9d;
+    cursor: pointer;
+
+
+}
+.block-inside-box {
+    background-color: black;
+    width: 180px;
+    height: 180px;
+    position: absolute;
+    top: 9%;
+    left: 9%;
+    color: white;
+    transition: 0.4s;
+}
+.giving-absolute-position {
+    position: relative;
+}
+.inside-block-header {
+    margin-top: 45px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+
+}
+.inside-block-text {
+    margin-top: 15px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+}
+.icons-for-comment {
+    margin-top: 30px;
+}
+.block-inside-box:hover {
+    background-color: white;
+    color: #1bbc9d;
+    transition: 0.4s;
+}

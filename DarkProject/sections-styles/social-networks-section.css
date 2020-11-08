@@ -1,0 +1,44 @@
+.decline-padding {
+    padding-bottom: 0;
+}
+.icons-holder {
+    padding-bottom: 125px;
+    margin-left: 130px;
+}
+.fab {
+    font-weight: 400;
+    border-radius: 50%;
+    padding: 7px;
+    color: #65442a;
+    border-color: black;
+    background-color: #282a2e;
+    margin-right: 20px;
+    font-size: 20px;
+    margin-top: 20px;
+    transition: 0.4s;
+    cursor: pointer;
+}
+.fa-flickr {
+    padding: 7px 8px;
+}
+.fa-vimeo {
+    padding: 7px 9px;
+}
+.fa-google-plus-g {
+    padding: 7px 5px;
+}
+.fab:hover {
+    color: #97c248;
+    transition: 0.4s;
+}
+@media (max-width: 888px) {
+
+    .icons-holder{
+        margin-left: 15px;
+        margin-right: 15px;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+
+    }
+}

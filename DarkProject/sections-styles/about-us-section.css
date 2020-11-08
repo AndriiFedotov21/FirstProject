@@ -1,0 +1,37 @@
+.margin-about-us-bottom {
+    margin-bottom: 60px;
+}
+.padding-about-us {
+    padding-left: 130px;
+    padding-right: 130px;
+}
+.mate-image {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+.mate-name {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    color: white;
+    margin-top: 10px;
+
+}
+.mate-profession {
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    color: white;
+    margin-top: 7px;
+}
+.mate-text {
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+    font-weight: 300;
+    color: #acacac;
+    margin-top: 14px;
+    line-height: 1;
+    margin-bottom: 60px;
+
+}

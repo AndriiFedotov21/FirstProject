@@ -1,0 +1,38 @@
+.welcome-section {
+    position: relative;
+    height: 575px;
+    background: url("../images/Icons.png") no-repeat 70% bottom;
+
+}
+.welcome-bold-header {
+    padding-top: 240px;
+}
+.welcome-bold-text {
+    margin-top: 10px;
+}
+.arrow-right {
+    margin-right: 20px;
+    color: white;
+    font-size: 30px;
+    position: absolute;
+    right: 0;
+    top: 50%;
+
+}
+.arrow-left {
+    margin-left: 20px;
+    color: white;
+    font-size: 30px;
+    position: absolute;
+    left: 0;
+    top: 50%;
+
+}
+.welcome-arrows {
+    transition: 0.3s;
+}
+.welcome-arrows:hover {
+    color: #97c248;
+    transition: 0.3s;
+}
+

@@ -1,0 +1,77 @@
+.recent-activities-section {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.recent-headers {
+    margin-top: 50px;
+    color: white;
+    border-bottom: 2px solid #717171;
+    padding-bottom: 16px;
+    margin-bottom: 20px;
+    transition: 0.4s;
+}
+.recent-blocks {
+    cursor: pointer;
+    text-align: left;
+    width: 18%;
+    min-width: 200px;
+    transition: 0.5s;
+}
+.yellow-icons {
+    color: #97c248;
+    margin: 0;
+}
+.paragraph {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 13px;
+    color: #747474;
+    margin-top: 15px;
+    transition: 0.5s;
+}
+
+.recent-blocks:hover .recent-headers {
+    border-bottom: 2px solid white;
+    transition: 0.4s;
+}
+.recent-blocks:hover .paragraph {
+    box-shadow: 1px 2px 3px 0 white;
+    border-radius: 12px;
+    padding: 5px;
+    transition: 0.5s;
+}
+.first-line-images {
+    display: flex;
+    width: 100%;
+}
+.second-line-images {
+    display: flex;
+    width: 100%;
+}
+.third-line-images {
+    display: flex;
+    width: 100%;
+}
+.image-holder {
+    width: 25%;
+    height: 60px;
+    transition: 0.5s;
+}
+.image-itself {
+    width: 100%;
+    transition: 0.5s;
+    top: 0;
+}
+
+.image-holder:hover .image-itself {
+    width: 100px;
+    height: 100px;
+    top: 150px;
+
+    left: -20px;
+    position: relative;
+    transition: 0.5s;
+    box-shadow: 1px 3px white;
+    border-radius: 12px;
+}

@@ -1,0 +1,194 @@
+.contact-us-wrapper {
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+.wrapper-for-contact-header {
+    text-align: left;
+    border-bottom: 1px solid #717171;
+    width: 97.5%;
+}
+.line-holder {
+    border-bottom: 1px solid #717171;
+    width: 160%;
+}
+.left-block-contact {
+    margin-left: 130px;
+    width: 60%;
+    text-align: left;
+
+}
+.right-block-contact {
+    margin-right: 230px;
+    text-align: left;
+
+}
+.contact-us-header {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    color: white;
+    padding-bottom: 10px;
+}
+.contact-style {
+    background: #222327;
+    text-decoration: none;
+    color: #989898;
+    border: none;
+    font-size: 14px;
+    width: 92%;
+    height: 35px;
+    padding-left: 8px;
+}
+.holder-for-forms {
+    text-align: left;
+    display: flex;
+    align-items: baseline;
+
+}
+.textarea-align {
+    text-align: left;
+    margin-top: 15px;
+}
+.margin-for-header {
+    margin-bottom: 45px;
+}
+.form-margin {
+    margin: 30px 5px 0 0;
+    width: 94%;
+}
+.form-margin-mail {
+    width: 92%;
+}
+.width-of-textarea {
+    width: 96%;
+    height: 142px;
+}
+.label-name, .label-mail {
+    width: 50%;
+}
+.number, .mail {
+    color: #989898;
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+.number {
+    margin-top: 33px;
+    width: 150px;
+}
+.mail {
+    margin-top: 10px;
+}
+.skype {
+    color: #989898;
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+
+}
+.flex-for-forms {
+    display: flex;
+    margin-top: 45px;
+}
+.username {
+    color: #989898;
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+.name-font {
+    color: #989898;
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    margin-top: 45px;
+}
+.map-font {
+    color: #989898;
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    margin-top: 10px;
+}
+.button-contact {
+    background-color: #1bbc9d;
+    color: white;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+    border: none;
+    width: 105px;
+    height: 30px;
+    margin-top: 15px;
+}
+.with-margin {
+    margin-top: 18px;
+}
+.label-of-textarea {
+    width: 100%;
+}
+
+@media (max-width: 1050px) {
+    .contact-us-wrapper {
+        display: block;
+    }
+    .left-block-contact {
+        width:98%;
+        margin-left: 14px;
+        margin-bottom: 25px;
+    }
+    .wrapper-for-contact-header {
+        width: 96%;
+    }
+    .right-block-contact {
+        margin-left: 14px;
+        text-align: left;
+        width: 98%;
+    }
+    .line-holder {
+        width: 96%;
+    }
+    .holder-for-forms-media {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .number {
+        margin: 0;
+    }
+    .mail {
+        margin: 0;
+
+    }
+    .flex-for-forms {
+        margin-top: 0;
+        margin-left: 12px;
+        margin-right: 12px;
+    }
+    .name-font {
+        margin-top: 28px;
+
+    }
+    .map-font {
+        margin-top: 0;
+
+    }
+}
+@media (max-width: 525px) {
+    .holder-for-forms-media {
+        display: block;
+    }
+    .number {
+        margin-top: 15px;
+    }
+    .mail {
+        margin-top: 15px;
+
+    }
+    .flex-for-forms {
+        margin-top: 15px;
+        margin-left: 0;
+
+    }
+}

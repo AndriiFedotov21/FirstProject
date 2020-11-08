@@ -1,0 +1,52 @@
+
+.circles-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.circle-for-section {
+    margin: 17px 20px 35px;
+    width: 10em;
+    height: 5em;
+
+    border-radius: 50% 50% 0 0 / 100% 100% 0 0;
+    background: linear-gradient(60deg,#1bbb9d 10%, #a9c929, #313338 45%);
+    position: relative;
+
+}
+.circle-inside {
+    width: 100px;
+    height: 60px;
+    border-radius: 50% 50% 0 0 / 100% 100% 0 0;
+    background: #282a2e;
+    position: absolute;
+    top: 35%;
+    left: 19%;
+    color: white;
+}
+.percents {
+    margin-top: 35px;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'Roboto', sans-serif;
+}
+.second-circle {
+    background: linear-gradient(120deg,#1bbb9d 10%, #a9c929, #313338 72%)
+
+}
+.third-circle {
+    background: linear-gradient(150deg,#1bbb9d 10%, #a9c929, #313338 80%);
+}
+.fourth-circle {
+    background: linear-gradient(50deg,#1bbb9d 3%, #a9c929, #313338 30%);
+}
+.fifth-circle {
+    background: linear-gradient(89deg,#1bbb9d 10%, #a9c929, #313338 51%);
+}
+.under-circle-text {
+    margin-top: 15px;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: 'Roboto', sans-serif;
+
+}

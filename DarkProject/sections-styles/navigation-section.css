@@ -1,0 +1,95 @@
+.navigation-section {
+    font-family: 'Roboto', sans-serif;
+    padding-top: 60px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+
+}
+.navigation-logo {
+    display: flex;
+
+}
+.navigation-logo-text {
+    margin-left: 14px;
+    font-weight: 500;
+    font-size: 24px;
+    color: white;
+    transition: 0.3s;
+}
+.navigation-links-holder {
+    margin-right: 130px;
+}
+
+.navigation-links-list {
+    display: flex;
+
+}
+.navigation-list-item {
+    color: white;
+    margin-right: 40px;
+}
+
+.link-reference {
+    font-weight: 400;
+    font-size: 16px;
+    color: white;
+    transition: 0.3s;
+    text-decoration: none;
+}
+.link-reference:hover {
+    color: #97c248;
+    transition: 0.3s;
+    text-decoration: none;
+}
+.navigation-logo-text:hover {
+    color: #97c248;
+    transition: 0.3s;
+    text-decoration: none;
+
+}
+.decoration-none {
+    text-decoration: none;
+}
+
+@media (max-width: 1055px) {
+ .navigation-section {
+     display: block;
+ }
+    .navigation-logo {
+        margin-left: 0;
+        display: flex;
+        justify-content: center;
+        margin-bottom: 30px;
+    }
+    .navigation-links-holder {
+        display: flex;
+        justify-content: center;
+        margin-left: 0;
+        margin-right: 0;
+
+    }
+
+    .navigation-links-list {
+        display: block;
+
+    }
+    .navigation-list-item {
+        margin-right: 0;
+        margin-bottom: 15px;
+    }
+    .link-reference {
+        font-size: 25px;
+    }
+    .logo-image-itself {
+        width: 50px;
+        height: 50px;
+    }
+    .navigation-logo-text {
+        display: flex;
+        align-items: center;
+        font-size: 35px;
+    }
+}

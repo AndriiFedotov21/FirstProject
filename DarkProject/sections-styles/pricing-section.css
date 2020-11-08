@@ -1,0 +1,83 @@
+.pricing-line-first {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+
+}
+.pricing-line-box {
+    width: 260px;
+    height: 400px;
+    background: #313338;
+    margin: 40px;
+    transition: 0.4s;
+}
+.pricing-header {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+    color: #b6b6b6;
+    margin-top: 30px;
+
+}
+.cost-per-month {
+    background-color: #1bbc9d;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    margin-top: 20px;
+    padding: 10px;
+    margin-bottom: 35px;
+}
+
+.option-block {
+    color: #b6b6b6;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.option-name {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    margin-right: 3px;
+}
+.option {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+
+}
+.button-price {
+    margin-top: 40px;
+    transition: 0.4s;
+}
+.pricing-line-box:hover {
+    background-color: white;
+    color: black;
+    transition: 0.4s;
+}
+.button-price:hover {
+    background-color: #1bbc9d;
+    transition: 0.4s;
+}
+.box-less-width {
+    width: 200px;
+    margin: 22px 22px 0 22px;
+    transition: 0.4s;
+    background-color: white;
+    color: black;
+}
+.pricing-line-second {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.box-less-width:hover {
+    background-color: #313338;
+    color: white;
+}
+.button-refactor {
+    background-color: #74b0a4;
+
+}
