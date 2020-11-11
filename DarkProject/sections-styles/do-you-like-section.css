@@ -6,6 +6,10 @@
     padding-top: 25px;
     padding-bottom: 125px;
 }
+.do-you-like-section {
+    max-width: 1200px;
+    margin: 0 auto;
+}
 @media(max-width: 555px) {
     .like-buttons {
         margin-left: 0;

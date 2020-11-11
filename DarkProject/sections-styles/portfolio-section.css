@@ -32,16 +32,23 @@
     justify-content: center;
     margin-top: 30px;
     flex-wrap: wrap;
+
+}
+.image-class {
+    width: 100%;
 }
 .box-second-line {
     display: flex;
     justify-content: center;
     margin-top: 10px;
     flex-wrap: wrap;
+
 }
 .box-image-line {
     margin-left: 10px;
     margin-top: 10px;
+    width: 224px;
+    height: 224px;
 }
 .icons-arrow-down {
     margin-top: 5px;
@@ -73,6 +80,8 @@
 
 }
 .block-inside-box {
+    opacity: 0;
+    visibility: hidden;
     background-color: black;
     width: 180px;
     height: 180px;
@@ -105,4 +114,20 @@
     background-color: white;
     color: #1bbc9d;
     transition: 0.4s;
+}
+.dividing-lines {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.box-image-line:hover .block-inside-box {
+
+    opacity: 1;
+    visibility: visible;
+    transition: 2s;
+}
+
+.pricing-brown {
+    max-width: 1200px;
+    margin: 0 auto;
 }

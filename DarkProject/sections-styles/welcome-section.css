@@ -2,6 +2,8 @@
     position: relative;
     height: 575px;
     background: url("../images/Icons.png") no-repeat 70% bottom;
+    max-width: 1200px;
+    margin: 0 auto;
 
 }
 .welcome-bold-header {

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="266ae17a-7cd9-4872-b56a-414f8eabc45a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iPjt8svWwDW6oBdzuQEutcZMBa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HelloBigWorld" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\WebstormProjects\DarkProject\main-styles" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="266ae17a-7cd9-4872-b56a-414f8eabc45a" name="Default Changelist" comment="" />
+      <created>1601816332106</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601816332106</updated>
+      <workItem from="1601816333147" duration="2379000" />
+      <workItem from="1601818759580" duration="1779000" />
+      <workItem from="1601820581438" duration="1779000" />
+      <workItem from="1601822394857" duration="1776000" />
+      <workItem from="1601824201742" duration="1778000" />
+      <workItem from="1601826011809" duration="1778000" />
+      <workItem from="1601827830290" duration="1671000" />
+      <workItem from="1601886733685" duration="1862000" />
+      <workItem from="1601889242012" duration="1778000" />
+      <workItem from="1601891059749" duration="1773000" />
+      <workItem from="1601892876746" duration="1773000" />
+      <workItem from="1601894686388" duration="1079000" />
+      <workItem from="1601934704092" duration="54000" />
+      <workItem from="1601998081414" duration="1764000" />
+      <workItem from="1601999882904" duration="1713000" />
+      <workItem from="1602002273450" duration="1756000" />
+      <workItem from="1602004099873" duration="1773000" />
+      <workItem from="1602005942540" duration="1806000" />
+      <workItem from="1602007794452" duration="1157000" />
+      <workItem from="1602016831046" duration="60000" />
+      <workItem from="1602068328360" duration="1772000" />
+      <workItem from="1602070147681" duration="1741000" />
+      <workItem from="1602071958604" duration="1783000" />
+      <workItem from="1602073816893" duration="1798000" />
+      <workItem from="1602075652658" duration="1776000" />
+      <workItem from="1602077464138" duration="1777000" />
+      <workItem from="1602079275746" duration="1778000" />
+      <workItem from="1602081085643" duration="1133000" />
+      <workItem from="1602513861488" duration="112000" />
+      <workItem from="1602514059756" duration="21000" />
+      <workItem from="1602514449378" duration="1485000" />
+      <workItem from="1602515979063" duration="1724000" />
+      <workItem from="1602517787484" duration="1777000" />
+      <workItem from="1602519610817" duration="1785000" />
+      <workItem from="1602521425441" duration="1104000" />
+      <workItem from="1602523443297" duration="1266000" />
+      <workItem from="1602787477494" duration="1765000" />
+      <workItem from="1602789275246" duration="1777000" />
+      <workItem from="1602791085946" duration="1777000" />
+      <workItem from="1602792898091" duration="1776000" />
+      <workItem from="1602794715654" duration="394000" />
+      <workItem from="1603582330865" duration="259000" />
+      <workItem from="1604078669989" duration="654000" />
+      <workItem from="1604135355067" duration="69000" />
+      <workItem from="1604853449880" duration="247000" />
+      <workItem from="1604940496321" duration="1134000" />
+      <workItem from="1604943455829" duration="1711000" />
+      <workItem from="1604945289331" duration="1739000" />
+      <workItem from="1605019405257" duration="1782000" />
+      <workItem from="1605021224271" duration="952000" />
+      <workItem from="1605023854765" duration="447000" />
+      <workItem from="1605065614918" duration="1684000" />
+      <workItem from="1605070758207" duration="722000" />
+      <workItem from="1605073180885" duration="495000" />
+      <workItem from="1605075926318" duration="246000" />
+      <workItem from="1605077402962" duration="607000" />
+      <workItem from="1605079646866" duration="55000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601890915996">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1601890915996" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1604078727629">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1604078727629" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1601820203186">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1601820203186" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1605079666196">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1605079666196" />
+  </component>
+</project>

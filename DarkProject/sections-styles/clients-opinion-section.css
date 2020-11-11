@@ -39,7 +39,9 @@ p.font-about-us-header {
     position: absolute;
     left: 11%;
     top: 4%;
-
+}
+.relative {
+    position: relative;
 }
 .right-up-line {
     background-color: #717171;

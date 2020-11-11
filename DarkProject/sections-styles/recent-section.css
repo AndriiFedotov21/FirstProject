@@ -2,6 +2,13 @@
     display: flex;
     justify-content: space-evenly;
     flex-wrap: wrap;
+
+}
+.last-one {
+    max-width: 1200px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
 }
 .recent-headers {
     margin-top: 50px;
@@ -67,7 +74,7 @@
 .image-holder:hover .image-itself {
     width: 100px;
     height: 100px;
-    top: 150px;
+
 
     left: -20px;
     position: relative;
